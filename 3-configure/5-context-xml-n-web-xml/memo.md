@@ -22,8 +22,14 @@
 
 ![Alt demo: view web.xml](pic/06.jpg)
 
+**Session timout**
+
 ![Alt demo: session](pic/07.jpg)
 
+**Servlet**
+
 ![Alt demo: servlet](pic/08.jpg)
+
+**Welcome-file**
 
 ![Alt demo: welcome-file](pic/09.jpg)
