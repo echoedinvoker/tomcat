@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "tomcat",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/tomcat/blob/master/3-configure/3-folder-struct/memo.md",
     "course": "Apache tomcat for sys and web admins",
     "chapter": "3. Understand tomcat configuration",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "3. tomcat folder structure",
+    "video.length": 3,
+    "time.comsuming": 23,
     "lecturer.name.first": "Kevin",
     "lecturer.name.last": "Joseph",
-    "register.time": "",
+    "register.time": "2023-03-13T00:55:40Z",
     "tag": [
-      "tomcat","configure" 
+      "tomcat","configure","structure","folder"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/tomcat-for-sys-and-web-admins/learn/lecture/13447244#content",
+    "description": "Introducing Tomcat data architecture and a brief look at it."
   }
 
