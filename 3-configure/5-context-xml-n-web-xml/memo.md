@@ -6,6 +6,8 @@
 
 ![Alt can be in the war](pic/02.jpg)
 
+- If there is a context.xml under both war and conf, war will override the conf effect, and you can treat the context.xml under conf as a global setting.
+
 ### _What context.xml and web.xml for?_
 
 ![Alt context.xml for](pic/03.jpg)
@@ -17,6 +19,8 @@
 ### _context.xml_
 
 ![Alt demo: context.xml](pic/05.jpg)
+
+- I don't see jdbc related settings...
 
 ### _web.xml_
 
