@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "tomcat",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/tomcat/blob/master/3-configure/6-startup/memo.md",
     "course": "Apache tomcat for sys and web admins",
     "chapter": "3. Understand tomcat configuration",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "6. tomcat startup",
+    "video.length": 3,
+    "time.comsuming": 19,
     "lecturer.name.first": "Kevin",
     "lecturer.name.last": "Joseph",
-    "register.time": "",
+    "register.time": "2023-03-13T02:05:47Z",
     "tag": [
-      "tomcat","configure" 
+      "tomcat","configure","setenv","bash","script","home"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/tomcat-for-sys-and-web-admins/learn/lecture/13450390#content",
+    "description": "Explains how to use setenv.sh to merge commands that must be run before startup into startup.sh."
   }
 
