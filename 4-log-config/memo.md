@@ -10,9 +10,11 @@
 
 ![Alt check logs files](pic/03.jpg)
 
+- Except for the logs files marked in the figure, the names of other logs are set according to logging.properties.
+
 ## **catalina.sh**
 
-> catalina.out is set in catalina.sh.
+> catalina.out is set in catalina.sh instead of logging.properties.
 
 ![Alt catalina.sh](pic/04.jpg)
 
@@ -27,3 +29,5 @@
 ![Alt vim catalina.out](pic/07.jpg)
 
 ![Alt contents of it](pic/08.jpg)
+
+- Because the default is to use append, so every time you launch tomcat, it will increase the catalina.out data, which will soon become extremely large.
