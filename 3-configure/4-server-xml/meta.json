@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "tomcat",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/tomcat/blob/master/3-configure/4-server-xml/memo.md",
     "course": "Apache tomcat for sys and web admins",
     "chapter": "3. Understand tomcat configuration",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "4. tomcat configuration file server.xml",
+    "video.length": 4,
+    "time.comsuming": 18,
     "lecturer.name.first": "Kevin",
     "lecturer.name.last": "Joseph",
-    "register.time": "",
+    "register.time": "2023-03-13T01:15:58Z",
     "tag": [
-      "tomcat","configure" 
+      "tomcat","configure","server","xml"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/tomcat-for-sys-and-web-admins/learn/lecture/13447280#content",
+    "description": "Introducing the basic structure of server.xml, the file used to configure the Tomcat server."
   }
 
