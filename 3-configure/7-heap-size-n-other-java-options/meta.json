@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "tomcat",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/tomcat/blob/master/3-configure/7-heap-size-n-other-java-options/memo.md",
     "course": "Apache tomcat for sys and web admins",
     "chapter": "3. Understand tomcat configuration",
-    "section": "",
-    "video.length": ,
-    "time.comsuming": ,
+    "section": "7. tomcat heap size and other java options",
+    "video.length": 5,
+    "time.comsuming": 38,
     "lecturer.name.first": "Kevin",
     "lecturer.name.last": "Joseph",
-    "register.time": "",
+    "register.time": "2023-03-13T02:48:02Z",
     "tag": [
-      "tomcat","configure" 
+      "tomcat","configure","setevn","memory","allocate","garbage","log","collection"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/tomcat-for-sys-and-web-admins/learn/lecture/13847266#content",
+    "description": "Explain how to set tomcat heap size and garbage collection log."
   }
 
