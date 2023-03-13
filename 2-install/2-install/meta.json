@@ -1,18 +1,18 @@
 {
     "category-v2.single.toJob": "tomcat",
-    "git.link": "",
+    "git.link": "https://github.com/echoedinvoker/tomcat/blob/master/2-install/2-install/memo.md",
     "course": "Apache tomcat for sys and web admins",
     "chapter": "2. Install tomcat on Ubuntu Linux",
     "section": "2. Step to install and startup tomcat",
     "video.length": 10,
-    "time.comsuming": ,
+    "time.comsuming": 67,
     "lecturer.name.first": "Kevin",
     "lecturer.name.last": "Joseph",
-    "register.time": "",
+    "register.time": "2023-03-12T22:40:02Z",
     "tag": [
-      "tomcat","install" 
+      "tomcat","install"
     ],
-    "video.link": "",
-    "description": ""
+    "video.link": "https://www.udemy.com/course/tomcat-for-sys-and-web-admins/learn/lecture/13447256#content",
+    "description": "Install Tomcat, including adding users, disk slicing, privilege settings, etc."
   }
 
